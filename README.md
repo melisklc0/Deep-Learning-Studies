@@ -1,2 +1,2 @@
 # Deep-Learning-Studies
-Some of my studies on deep learning.
+Since we are still working on the projects, I can't share the main code yet, but here are some of my studies.
